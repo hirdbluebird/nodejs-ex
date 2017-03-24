@@ -1,0 +1,5 @@
+Your API token is:
+LjUuRKzuviWKvbCXmrge-YJtrMBWiSXokSZJBfC_35M
+
+Use this token directly against the API
+curl -H "Authorization: Bearer LjUuRKzuviWKvbCXmrge-YJtrMBWiSXokSZJBfC_35M" "https://api.preview.openshift.com/oapi/v1/users/~"
